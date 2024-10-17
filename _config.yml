@@ -30,7 +30,7 @@ github_username:  isaacy
 linkedin_username: isaacyuen
 
 # Build settings
-theme: architect
+theme: minima
 plugins:
   - jekyll-feed
 
