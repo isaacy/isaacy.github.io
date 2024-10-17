@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Rants from laconic
+title: Pay + Tech Polymath's Notebook
 email: isw.yuen@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A blog, and also an experiment to talk about payments, technology, work experience (TESLA), and anything I find interesting.
+  A product manager's ongoing journal of thoughts on payments, technology, and the occasional life observation.
  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,7 +30,7 @@ github_username:  isaacy
 linkedin_username: isaacyuen
 
 # Build settings
-theme: minima
+theme: architect
 plugins:
   - jekyll-feed
 
