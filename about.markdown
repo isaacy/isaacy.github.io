@@ -47,8 +47,8 @@ With over a decade of experience launching cutting-edge payment and fraud produc
 ---
 
 ### 🎓 Education
-- **Master in Computer Science** | McGill University (2000-2008)
-- **Bachelor in Computing Science, Honors** | University of Alberta (2000-2005)
+**Master in Computer Science** | McGill University (2000-2008)
+**Bachelor in Computing Science, Honors** | University of Alberta (2000-2005)
 
 ---
 
